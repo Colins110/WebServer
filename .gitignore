@@ -35,3 +35,4 @@
 build
 core
 .vscode
+.cache

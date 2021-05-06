@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Channel.cpp.o -c /home/colin/hub/WebServer/WebServer/Channel.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/Channel.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Epoll.cpp.o -c /home/colin/hub/WebServer/WebServer/Epoll.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/Epoll.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/EventLoop.cpp.o -c /home/colin/hub/WebServer/WebServer/EventLoop.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/EventLoop.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/EventLoopThread.cpp.o -c /home/colin/hub/WebServer/WebServer/EventLoopThread.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/EventLoopThread.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/EventLoopThreadPool.cpp.o -c /home/colin/hub/WebServer/WebServer/EventLoopThreadPool.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/EventLoopThreadPool.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/HttpData.cpp.o -c /home/colin/hub/WebServer/WebServer/HttpData.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/HttpData.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Main.cpp.o -c /home/colin/hub/WebServer/WebServer/Main.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/Main.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Server.cpp.o -c /home/colin/hub/WebServer/WebServer/Server.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/Server.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Timer.cpp.o -c /home/colin/hub/WebServer/WebServer/Timer.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/Timer.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Util.cpp.o -c /home/colin/hub/WebServer/WebServer/Util.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/Util.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer/base",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/AsyncLogging.cpp.o -c /home/colin/hub/WebServer/WebServer/base/AsyncLogging.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/base/AsyncLogging.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer/base",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/CountDownLatch.cpp.o -c /home/colin/hub/WebServer/WebServer/base/CountDownLatch.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/base/CountDownLatch.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer/base",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/FileUtil.cpp.o -c /home/colin/hub/WebServer/WebServer/base/FileUtil.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/base/FileUtil.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer/base",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/LogFile.cpp.o -c /home/colin/hub/WebServer/WebServer/base/LogFile.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/base/LogFile.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer/base",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/Logging.cpp.o -c /home/colin/hub/WebServer/WebServer/base/Logging.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/base/Logging.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer/base",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/LogStream.cpp.o -c /home/colin/hub/WebServer/WebServer/base/LogStream.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/base/LogStream.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer/base",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/Thread.cpp.o -c /home/colin/hub/WebServer/WebServer/base/Thread.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/base/Thread.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer/base/tests",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/LoggingTest.dir/LoggingTest.cpp.o -c /home/colin/hub/WebServer/WebServer/base/tests/LoggingTest.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/base/tests/LoggingTest.cpp"
+},
+{
+  "directory": "/home/colin/hub/WebServer/build/Debug/WebServer/tests",
+  "command": "g++  -I/home/colin/hub/WebServer/base -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/HTTPClient.dir/HTTPClient.cpp.o -c /home/colin/hub/WebServer/WebServer/tests/HTTPClient.cpp",
+  "file": "/home/colin/hub/WebServer/WebServer/tests/HTTPClient.cpp"
+}
+]
