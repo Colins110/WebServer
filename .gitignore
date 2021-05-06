@@ -32,5 +32,6 @@
 *.app
 
 # Otheres
+build
 core
 .vscode
